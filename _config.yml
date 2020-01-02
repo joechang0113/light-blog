@@ -17,7 +17,7 @@ title: Light Blog
 subtitle: A light and responsive Jekyll theme.
 description: This is a light and responsive Jekyll theme.
 baseurl: /light-blog
-timezone: Asia/Shanghai
+timezone: Asia/Taipei
 sidebar_repository_limit: 5
 paginate: 10
 publication_date: 2019
@@ -26,15 +26,15 @@ publication_date: 2019
 # remote_theme: lynn9388/light-blog
 
 # Author settings
-author: Lynn
-organization: HUST-IDC
-location: Wuhan, China
+author: Joe Chang
+organization: 
+location: Tainan, Taiwan
 social:
-  github: lynn9388
+  github: joechang0113
 
 # Comments settings (https://utteranc.es/)
 # You must use your own repository, otherwise it won't work.
-comments_repository: lynn9388/comments
+comments_repository: joechang0113/blog-comments
 
 # Google Analytics settings (https://analytics.google.com/)
 ga_measurement_id:
