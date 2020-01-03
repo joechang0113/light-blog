@@ -16,17 +16,17 @@ github: [metadata]
 # you will see them accessed via {{ site.title }}, {{ site.subtitle }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Light Blog
-subtitle: A light and responsive Jekyll theme.
-description: This is a light and responsive Jekyll theme.
-baseurl: /light-blog
+title: JoeNotes
+description: Joe’s Blog
+subtitle: Every noble work is at first impossible
+baseurl:
 timezone: Asia/Taipei
 sidebar_repository_limit: 5
 paginate: 10
 publication_date: 2019
 
 # Uncomment the line below if you use this theme as a GitHub Page's remote theme.
-# remote_theme: lynn9388/light-blog
+remote_theme: joechang0113/light-blog
 
 # Author settings
 author: Joe Chang
