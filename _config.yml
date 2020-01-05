@@ -1,5 +1,5 @@
 # fixed the problem "GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data."
-github: [metadata]
+# github: [metadata]
 
 # Welcome to Jekyll!
 #
